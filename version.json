@@ -1,3 +1,5 @@
 {
-  "version": "1.6"
+  "version": "1.7",
+  "download_url": "https://github.com/rbaminde/login_c2/releases/download/v1.7/login_c2_setup.exe",
+  "release_notes": "## Correções\n\n- Corrige a falha no login do portal C2 (bloqueio de segurança do Santander). O login volta a funcionar normalmente."
 }
